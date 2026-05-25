@@ -8,8 +8,8 @@ email=Pongsakornche@gmail.com
 
 about=Provide a brief description of the plugin and its purpose.
 
-tracker=https://github.com/Genroy/clickpointtoedit
-repository=https://github.com/Genroy/clickpointtoedit
+tracker=https://github.com/Genroy/ClickPointtoedit_Public
+repository=https://github.com/Genroy/ClickPointtoedit_Public
 homepage=https://genxqx.wixsite.com/ceejay
 
 hasProcessingProvider=no
